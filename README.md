@@ -47,5 +47,5 @@ To explore how different factors like gender, parental education, and test prepa
 ## 👨‍💻 Author
 
 B.Tech CSE (AI & ML) Student — Final Year  
-Project guided and assisted by ChatGPT 😉
+Rishabh gupta
 
